@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-10T20:21:42+00:00</updated>
+    <updated>2021-03-10T20:25:26+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Temporada 3"/>
             <category term="Programas"/>
 
-        <updated>2021-03-10T20:21:42+00:00</updated>
+        <updated>2021-03-10T20:25:26+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://clubtentaciones.ga/media/posts/19/laisla3_programa8PLUS_7ef0.jpg" alt="" />
@@ -31,58 +31,7 @@
                     <img src="https://clubtentaciones.ga/media/posts/19/laisla3_programa8PLUS_7ef0.jpg" alt="" />
                 <p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>
 <p class="msg msg--info">Si da error es porque se esta procesando, paciencia.</p>
-<div class="container"><video loading="lazy" width="300" height="150" controls="controls" crossorigin="" playsinline="" poster="https://album.mediaset.es/cimg/807010/2021/03/10/laisla3_programa8PLUS_7ef0.jpg" id="player">
-                <!-- Video files -->
-                <source src="https://islatentaciones.ml/720.mp4" type="video/mp4" size="576" />  
-
-  <style>/* This is purely for the demo */
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-}
-.plyr {
-  border-radius: 4px;
-  margin-bottom: 15px;
-}
-  </style>
-  document.addEventListener('DOMContentLoaded', () =&gt; { 
-  // This is the bare minimum JavaScript. You can opt to pass no arguments to setup.
-  const player = new Plyr('#player');
-  
-  // Expose
-  window.player = player;
-
-  // Bind event listener
-  function on(selector, type, callback) {
-    document.querySelector(selector).addEventListener(type, callback, false);
-  }
-
-  // Play
-  on('.js-play', 'click', () =&gt; { 
-    player.play();
-  });
-
-  // Pause
-  on('.js-pause', 'click', () =&gt; { 
-    player.pause();
-  });
-
-  // Stop
-  on('.js-stop', 'click', () =&gt; { 
-    player.stop();
-  });
-
-  // Rewind
-  on('.js-rewind', 'click', () =&gt; { 
-    player.rewind();
-  });
-
-  // Forward
-  on('.js-forward', 'click', () =&gt; { 
-    player.forward();
-  });
-});
-    </video></div>
+<div class="container"><div class="post__iframe"><iframe loading="lazy" class="responsive-iframe" src="8.html"></iframe></div></div>
             ]]>
         </content>
     </entry>
