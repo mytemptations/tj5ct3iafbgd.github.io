@@ -14,7 +14,7 @@
             "url": "https://clubtentaciones.ga/3x08.html",
             "title": "Programa 8",
             "summary": "Lucía llega al límite y pide una hoguera de confrontación con Manuel.",
-            "content_html": "<p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>\n<p class=\"msg msg--info\">Si da error es porque se esta procesando, paciencia.</p>\n<div id=\"player\"> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"https://clubtentaciones.ga/ultimo.mp4\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>\n<p class=\"msg msg--info\">Si da error es porque se esta procesando, paciencia.</p>\n<p><video loading=\"lazy\" width=\"300\" height=\"150\" id=\"player\" playsinline=\"\" controls=\"controls\" data-poster=\"https://album.mediaset.es/cimg/807010/2021/03/10/laisla3_programa8PLUS_7ef0.jpg\">\n  <source src=\"https://clubtentaciones.ga/video.mp4\" type=\"video/mp4\" /></video></p>",
             "image": "https://clubtentaciones.ga/media/posts/19/laisla3_programa8PLUS_7ef0.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -24,7 +24,7 @@
                    "Programas"
             ],
             "date_published": "2021-03-10T19:47:35+00:00",
-            "date_modified": "2021-03-10T19:59:51+00:00"
+            "date_modified": "2021-03-10T20:17:57+00:00"
         },
         {
             "id": "https://clubtentaciones.ga/debate-7.html",
