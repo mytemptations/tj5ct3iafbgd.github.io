@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-10T20:50:29+00:00</updated>
+    <updated>2021-03-10T21:05:31+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Temporada 3"/>
             <category term="Programas"/>
 
-        <updated>2021-03-10T20:50:29+00:00</updated>
+        <updated>2021-03-10T21:05:31+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://clubtentaciones.ga/media/posts/19/laisla3_programa8PLUS_7ef0.jpg" alt="" />
@@ -30,13 +30,7 @@
             <![CDATA[
                     <img src="https://clubtentaciones.ga/media/posts/19/laisla3_programa8PLUS_7ef0.jpg" alt="" />
                 <p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>
-<p class="msg msg--info">Si da error es porque se esta procesando, paciencia.</p>
-<div id="player"> </div>
-<p>
-<script>
-    var player = new Clappr.Player({source: "http://islatentaciones.ml/here.mp4", parentId: "#player"});
-  </script>
-</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2167706749571" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

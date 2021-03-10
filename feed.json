@@ -14,7 +14,7 @@
             "url": "https://clubtentaciones.ga/3x08.html",
             "title": "Programa 8",
             "summary": "Lucía llega al límite y pide una hoguera de confrontación con Manuel.",
-            "content_html": "<p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>\n<p class=\"msg msg--info\">Si da error es porque se esta procesando, paciencia.</p>\n<div id=\"player\"> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"http://islatentaciones.ml/here.mp4\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2167706749571\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://clubtentaciones.ga/media/posts/19/laisla3_programa8PLUS_7ef0.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -24,7 +24,7 @@
                    "Programas"
             ],
             "date_published": "2021-03-10T19:47:35+00:00",
-            "date_modified": "2021-03-10T20:50:29+00:00"
+            "date_modified": "2021-03-10T21:05:31+00:00"
         },
         {
             "id": "https://clubtentaciones.ga/debate-7.html",
