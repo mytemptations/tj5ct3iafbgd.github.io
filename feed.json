@@ -14,7 +14,7 @@
             "url": "https://clubtentaciones.ga/3x08.html",
             "title": "Programa 8",
             "summary": "Lucía llega al límite y pide una hoguera de confrontación con Manuel.",
-            "content_html": "<p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>\n<p class=\"msg msg--info\">Si da error es porque se esta procesando, paciencia.</p>\n<p><video loading=\"lazy\" width=\"300\" height=\"150\" id=\"player\" playsinline=\"\" controls=\"controls\" data-poster=\"https://album.mediaset.es/cimg/807010/2021/03/10/laisla3_programa8PLUS_7ef0.jpg\">\n  <source src=\"https://clubtentaciones.ga/video.mp4\" type=\"video/mp4\" /></video></p>",
+            "content_html": "<p>Lucía llega al límite y pide una hoguera de confrontación con Manuel. Está harta del comportamiento de su novio en Villa Playa con Fiama y quiere aclarar las cosas.</p>\n<p class=\"msg msg--info\">Si da error es porque se esta procesando, paciencia.</p>\n<div class=\"container\"><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" crossorigin=\"\" playsinline=\"\" poster=\"https://album.mediaset.es/cimg/807010/2021/03/10/laisla3_programa8PLUS_7ef0.jpg\" id=\"player\">\n                <!-- Video files -->\n                <source src=\"https://islatentaciones.ml/720.mp4\" type=\"video/mp4\" size=\"576\" />  \n\n  <style>/* This is purely for the demo */\n.container {\n  max-width: 800px;\n  margin: 0 auto;\n}\n.plyr {\n  border-radius: 4px;\n  margin-bottom: 15px;\n}\n  </style>\n  document.addEventListener('DOMContentLoaded', () =&gt; { \n  // This is the bare minimum JavaScript. You can opt to pass no arguments to setup.\n  const player = new Plyr('#player');\n  \n  // Expose\n  window.player = player;\n\n  // Bind event listener\n  function on(selector, type, callback) {\n    document.querySelector(selector).addEventListener(type, callback, false);\n  }\n\n  // Play\n  on('.js-play', 'click', () =&gt; { \n    player.play();\n  });\n\n  // Pause\n  on('.js-pause', 'click', () =&gt; { \n    player.pause();\n  });\n\n  // Stop\n  on('.js-stop', 'click', () =&gt; { \n    player.stop();\n  });\n\n  // Rewind\n  on('.js-rewind', 'click', () =&gt; { \n    player.rewind();\n  });\n\n  // Forward\n  on('.js-forward', 'click', () =&gt; { \n    player.forward();\n  });\n});\n    </video></div>",
             "image": "https://clubtentaciones.ga/media/posts/19/laisla3_programa8PLUS_7ef0.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -24,7 +24,7 @@
                    "Programas"
             ],
             "date_published": "2021-03-10T19:47:35+00:00",
-            "date_modified": "2021-03-10T20:17:57+00:00"
+            "date_modified": "2021-03-10T20:21:42+00:00"
         },
         {
             "id": "https://clubtentaciones.ga/debate-7.html",
