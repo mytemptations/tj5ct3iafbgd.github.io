@@ -14,7 +14,7 @@
             "url": "https://clubtentaciones.ga/3x09.html",
             "title": "Programa 9",
             "summary": "Tras la marcha de Lucía y Manuel, los chicos y chicas deben&hellip;",
-            "content_html": "<p>Tras la marcha de Lucía y Manuel, los chicos y chicas deben decidir qué dos solteros y solteras deberán abandonar las villas. Además, es noche de hogueras para ellos y ellas, unas hogueras especiales en las que no habrá imágenes, pero sí estarán cargadas de tensión con unas visitas inesperadas. Además en Villa Montaña, Claudia se sincera como nunca con Tony. </p>\n<p class=\"msg msg--highlight  msg--info\">Si da error es porque no ha terminado de procesar, paciencia</p>\n<div> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"http://islatentaciones.ml/720.mp4\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<p>Tras la marcha de Lucía y Manuel, los chicos y chicas deben decidir qué dos solteros y solteras deberán abandonar las villas. Además, es noche de hogueras para ellos y ellas, unas hogueras especiales en las que no habrá imágenes, pero sí estarán cargadas de tensión con unas visitas inesperadas. Además en Villa Montaña, Claudia se sincera como nunca con Tony. </p>\n<p class=\"msg msg--highlight  msg--info\">Si da error es porque no ha terminado de procesar, paciencia</p>\n<div> </div>\n<div id=\"player\"> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"http://islatentaciones.ml/720.mp4\", parentId: \"#player\"});\n  </script>\n</p>",
             "image": "https://clubtentaciones.ga/media/posts/21/laisla3-programa8PLUS_c001.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -24,7 +24,7 @@
                    "Programas"
             ],
             "date_published": "2021-03-16T19:50:35+00:00",
-            "date_modified": "2021-03-16T19:50:35+00:00"
+            "date_modified": "2021-03-16T19:54:07+00:00"
         },
         {
             "id": "https://clubtentaciones.ga/debate-8.html",
