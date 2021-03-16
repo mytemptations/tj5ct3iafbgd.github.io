@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://clubtentaciones.ga/3x09.html",
+            "url": "https://clubtentaciones.ga/3x09.html",
+            "title": "Programa 9",
+            "summary": "Tras la marcha de Lucía y Manuel, los chicos y chicas deben&hellip;",
+            "content_html": "<p>Tras la marcha de Lucía y Manuel, los chicos y chicas deben decidir qué dos solteros y solteras deberán abandonar las villas. Además, es noche de hogueras para ellos y ellas, unas hogueras especiales en las que no habrá imágenes, pero sí estarán cargadas de tensión con unas visitas inesperadas. Además en Villa Montaña, Claudia se sincera como nunca con Tony. </p>\n<p class=\"msg msg--highlight  msg--info\">Si da error es porque no ha terminado de procesar, paciencia</p>\n<div> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"http://islatentaciones.ml/720.mp4\", parentId: \"#player\"});\n  </script>\n</p>",
+            "image": "https://clubtentaciones.ga/media/posts/21/laisla3-programa8PLUS_c001.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Programas"
+            ],
+            "date_published": "2021-03-16T19:50:35+00:00",
+            "date_modified": "2021-03-16T19:50:35+00:00"
+        },
+        {
             "id": "https://clubtentaciones.ga/debate-8.html",
             "url": "https://clubtentaciones.ga/debate-8.html",
             "title": "Debate 8",
@@ -160,23 +177,6 @@
             ],
             "date_published": "2021-02-19T04:15:53+00:00",
             "date_modified": "2021-03-08T04:30:10+00:00"
-        },
-        {
-            "id": "https://clubtentaciones.ga/3x03.html",
-            "url": "https://clubtentaciones.ga/3x03.html",
-            "title": "Programa 3",
-            "summary": "A partir de ahora empieza el juego de verdad. Tras la primera&hellip;",
-            "content_html": "<p>A partir de ahora empieza el juego de verdad. Tras la primera hoguera de los chicos, le toca el turno a ellas. Lara, Marina, Claudia, Lucía y Lola ven las imágenes de cómo se comportan sus novios en la villa y no son lo que esperaban. Además, un nuevo tentador y una nueva tentadora entran en el juego.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2162308418179\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://clubtentaciones.ga/media/posts/7/laislat3_programa3PLUS_78ac.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Programas"
-            ],
-            "date_published": "2021-02-03T19:56:03+00:00",
-            "date_modified": "2021-03-08T04:18:41+00:00"
         }
     ]
 }
