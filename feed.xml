@@ -3,12 +3,37 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-10T21:05:31+00:00</updated>
+    <updated>2021-03-16T12:44:48+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://clubtentaciones.ga</id>
 
+    <entry>
+        <title>Debate 8</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://clubtentaciones.ga/debate-8.html"/>
+        <id>https://clubtentaciones.ga/debate-8.html</id>
+            <category term="Temporada 3"/>
+            <category term="Debates"/>
+
+        <updated>2021-03-16T12:44:48+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clubtentaciones.ga/media/posts/20/islatentaciones3_debate8_7c24.jpg" alt="" />
+                    Tras su decisión de abandonar por separado el programa durante su hoguera&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://clubtentaciones.ga/media/posts/20/islatentaciones3_debate8_7c24.jpg" alt="" />
+                <p>Tras su decisión de abandonar por separado el programa durante su hoguera de confrontación, Lucía y Manuel estarán presentes en el plató del debate en una entrevista con Sandra Barneda. </p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2177201015427" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 8</title>
         <author>
@@ -226,31 +251,6 @@
                     <img src="https://clubtentaciones.ga/media/posts/7/laislat3_programa3PLUS_78ac.jpg" alt="" />
                 <p>A partir de ahora empieza el juego de verdad. Tras la primera hoguera de los chicos, le toca el turno a ellas. Lara, Marina, Claudia, Lucía y Lola ven las imágenes de cómo se comportan sus novios en la villa y no son lo que esperaban. Además, un nuevo tentador y una nueva tentadora entran en el juego.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2162308418179" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 2</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://clubtentaciones.ga/debate-2.html"/>
-        <id>https://clubtentaciones.ga/debate-2.html</id>
-            <category term="Temporada 3"/>
-            <category term="Debates"/>
-
-        <updated>2021-03-08T04:15:18+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clubtentaciones.ga/media/posts/6/islatentaciones3_debate2_09a2.jpg" alt="" />
-                    Melyssa cuenta a Sandra que Tom quería tomarse un café con ella&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://clubtentaciones.ga/media/posts/6/islatentaciones3_debate2_09a2.jpg" alt="" />
-                <p>Melyssa cuenta a Sandra que Tom quería tomarse un café con ella tras su reencuentro en 'El debate', Además, Rubén Sánchez, uno de los protagonistas de la primera edición, ha sido confirmado como el nuevo 'tentador VIP' de Villa Montaña. En 'El debate de las tentaciones', Fani no pudo contenerse tras la confirmación de Rubén como nuevo tentador. Le acusó de "hipócrita" (01/02/2021).</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2162302454403" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

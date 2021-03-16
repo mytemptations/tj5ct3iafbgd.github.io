@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://clubtentaciones.ga/debate-8.html",
+            "url": "https://clubtentaciones.ga/debate-8.html",
+            "title": "Debate 8",
+            "summary": "Tras su decisión de abandonar por separado el programa durante su hoguera&hellip;",
+            "content_html": "<p>Tras su decisión de abandonar por separado el programa durante su hoguera de confrontación, Lucía y Manuel estarán presentes en el plató del debate en una entrevista con Sandra Barneda. </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2177201015427\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://clubtentaciones.ga/media/posts/20/islatentaciones3_debate8_7c24.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Debates"
+            ],
+            "date_published": "2021-03-16T12:44:48+00:00",
+            "date_modified": "2021-03-16T12:44:48+00:00"
+        },
+        {
             "id": "https://clubtentaciones.ga/3x08.html",
             "url": "https://clubtentaciones.ga/3x08.html",
             "title": "Programa 8",
@@ -160,23 +177,6 @@
             ],
             "date_published": "2021-02-03T19:56:03+00:00",
             "date_modified": "2021-03-08T04:18:41+00:00"
-        },
-        {
-            "id": "https://clubtentaciones.ga/debate-2.html",
-            "url": "https://clubtentaciones.ga/debate-2.html",
-            "title": "Debate 2",
-            "summary": "Melyssa cuenta a Sandra que Tom quería tomarse un café con ella&hellip;",
-            "content_html": "<p>Melyssa cuenta a Sandra que Tom quería tomarse un café con ella tras su reencuentro en 'El debate', Además, Rubén Sánchez, uno de los protagonistas de la primera edición, ha sido confirmado como el nuevo 'tentador VIP' de Villa Montaña. En 'El debate de las tentaciones', Fani no pudo contenerse tras la confirmación de Rubén como nuevo tentador. Le acusó de \"hipócrita\" (01/02/2021).</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2162302454403\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://clubtentaciones.ga/media/posts/6/islatentaciones3_debate2_09a2.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Debates"
-            ],
-            "date_published": "2021-02-02T12:52:41+00:00",
-            "date_modified": "2021-03-08T04:15:18+00:00"
         }
     ]
 }
