@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://clubtentaciones.ga/debate-9.html",
+            "url": "https://clubtentaciones.ga/debate-9.html",
+            "title": "Debate 9",
+            "summary": "¡Melyssa Pinto sorprende a todos con una noticia bomba! Muy pronto podrá&hellip;",
+            "content_html": "<p>¡Melyssa Pinto sorprende a todos con una noticia bomba! Muy pronto podrá tener la oportunidad de cumplir uno de sus grandes sueños y lo hará acompaña de su exnovio, Tom Brusse. \"Creo que puede ser positivo porque nos conocemos. Puede ser un apoyo\", confesaba (22/03/2021).</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2190969932419\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://clubtentaciones.ga/media/posts/23/islatentaciones3_debate9_f66c.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Debates"
+            ],
+            "date_published": "2021-03-23T07:06:51+00:00",
+            "date_modified": "2021-03-23T07:06:51+00:00"
+        },
+        {
             "id": "https://clubtentaciones.ga/3x10.html",
             "url": "https://clubtentaciones.ga/3x10.html",
             "title": "Programa 10",
@@ -160,23 +177,6 @@
             ],
             "date_published": "2021-02-23T13:42:31+00:00",
             "date_modified": "2021-03-01T19:10:56+00:00"
-        },
-        {
-            "id": "https://clubtentaciones.ga/3x05.html",
-            "url": "https://clubtentaciones.ga/3x05.html",
-            "title": "Programa 5",
-            "summary": "El collar del veto entra en juego y los participantes eligen a&hellip;",
-            "content_html": "<p>El collar del veto entra en juego y los participantes eligen a un tentador y una tentadora que no podrá tener citas. Además, uno de los chicos tendrá la oportunidad de ver 10 minutos en directo lo que hace su novia. </p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2162318314115\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://clubtentaciones.ga/media/posts/9/laislat3_programa5_5c4d.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Programas"
-            ],
-            "date_published": "2021-02-19T04:50:19+00:00",
-            "date_modified": "2021-03-08T04:30:20+00:00"
         }
     ]
 }

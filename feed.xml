@@ -3,12 +3,37 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-18T03:19:07+00:00</updated>
+    <updated>2021-03-23T07:06:51+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://clubtentaciones.ga</id>
 
+    <entry>
+        <title>Debate 9</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://clubtentaciones.ga/debate-9.html"/>
+        <id>https://clubtentaciones.ga/debate-9.html</id>
+            <category term="Temporada 3"/>
+            <category term="Debates"/>
+
+        <updated>2021-03-23T07:06:51+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clubtentaciones.ga/media/posts/23/islatentaciones3_debate9_f66c.jpg" alt="" />
+                    ¡Melyssa Pinto sorprende a todos con una noticia bomba! Muy pronto podrá&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://clubtentaciones.ga/media/posts/23/islatentaciones3_debate9_f66c.jpg" alt="" />
+                <p>¡Melyssa Pinto sorprende a todos con una noticia bomba! Muy pronto podrá tener la oportunidad de cumplir uno de sus grandes sueños y lo hará acompaña de su exnovio, Tom Brusse. "Creo que puede ser positivo porque nos conocemos. Puede ser un apoyo", confesaba (22/03/2021).</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2190969932419" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 10</title>
         <author>
@@ -227,31 +252,6 @@
                     <img src="https://clubtentaciones.ga/media/posts/13/islatentaciones3_debate5_ec66.jpg" alt="" />
                 <p>Melyssa Pinto ha confirmado en 'El debate de las tentaciones' que ha roto con su novio, Manuel. La extronista de 'Mujeres y hombres y viceversa' lo había anunciado en sus redes sociales y éstas 'ardieron' ante la noticia. Por eso Sandra Barneda no pudo evitar preguntarle en el directo de la gala (22/02/2021).</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2955625564732" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 5</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://clubtentaciones.ga/3x05.html"/>
-        <id>https://clubtentaciones.ga/3x05.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-08T04:30:20+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clubtentaciones.ga/media/posts/9/laislat3_programa5_5c4d.jpg" alt="" />
-                    El collar del veto entra en juego y los participantes eligen a&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://clubtentaciones.ga/media/posts/9/laislat3_programa5_5c4d.jpg" alt="" />
-                <p>El collar del veto entra en juego y los participantes eligen a un tentador y una tentadora que no podrá tener citas. Además, uno de los chicos tendrá la oportunidad de ver 10 minutos en directo lo que hace su novia. </p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2162318314115" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
