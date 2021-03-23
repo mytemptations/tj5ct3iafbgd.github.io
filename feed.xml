@@ -3,12 +3,43 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-23T07:06:51+00:00</updated>
+    <updated>2021-03-23T19:43:34+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://clubtentaciones.ga</id>
 
+    <entry>
+        <title>Programa 11</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://clubtentaciones.ga/3x11.html"/>
+        <id>https://clubtentaciones.ga/3x11.html</id>
+            <category term="Temporada 3"/>
+            <category term="Programas"/>
+
+        <updated>2021-03-23T19:43:34+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clubtentaciones.ga/media/posts/24/laislat3_programa11PLUS_ok_55a6.jpg" alt="" />
+                    Llega la hora de la verdad con las hogueras finales en las&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://clubtentaciones.ga/media/posts/24/laislat3_programa11PLUS_ok_55a6.jpg" alt="" />
+                <p>Llega la hora de la verdad con las hogueras finales en las que los participantes decidirán si abandonarán la isla juntos, por separado o en compañía de un nuevo amor. Las cinco parejas que se embarcaron en la aventura más importante de su vida se reencuentran por fin, cara a cara, tras todo lo sucedido en las villas con las solteras y solteros. Momentos de máxima tensión, dudas o pasión.  </p>
+<p class="msg msg--info">En estos momentos el video se esta procesando por eso da error, regresa en breves</p>
+<div id="player"> </div>
+<p>
+<script>
+    var player = new Clappr.Player({source: "http://clubtentaciones.ga/720p.mp4", parentId: "#player"});
+  </script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 9</title>
         <author>
@@ -227,31 +258,6 @@
                 <p> </p>
 <p>Llegan las terceras hogueras para ellos y para ellas y Diego pide por primera vez en esta edición una hoguera de confrontación con Lola. Si su pareja no lo acepta, él deberá abandonar el programa inmediatamente.</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2957551602236" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 5</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://clubtentaciones.ga/debate-5.html"/>
-        <id>https://clubtentaciones.ga/debate-5.html</id>
-            <category term="Temporada 3"/>
-            <category term="Debates"/>
-
-        <updated>2021-03-01T19:10:56+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clubtentaciones.ga/media/posts/13/islatentaciones3_debate5_ec66.jpg" alt="" />
-                    Melyssa Pinto ha confirmado en 'El debate de las tentaciones' que ha roto con su novio,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://clubtentaciones.ga/media/posts/13/islatentaciones3_debate5_ec66.jpg" alt="" />
-                <p>Melyssa Pinto ha confirmado en 'El debate de las tentaciones' que ha roto con su novio, Manuel. La extronista de 'Mujeres y hombres y viceversa' lo había anunciado en sus redes sociales y éstas 'ardieron' ante la noticia. Por eso Sandra Barneda no pudo evitar preguntarle en el directo de la gala (22/02/2021).</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2955625564732" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

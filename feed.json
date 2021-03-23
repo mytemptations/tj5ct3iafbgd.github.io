@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://clubtentaciones.ga/3x11.html",
+            "url": "https://clubtentaciones.ga/3x11.html",
+            "title": "Programa 11",
+            "summary": "Llega la hora de la verdad con las hogueras finales en las&hellip;",
+            "content_html": "<p>Llega la hora de la verdad con las hogueras finales en las que los participantes decidirán si abandonarán la isla juntos, por separado o en compañía de un nuevo amor. Las cinco parejas que se embarcaron en la aventura más importante de su vida se reencuentran por fin, cara a cara, tras todo lo sucedido en las villas con las solteras y solteros. Momentos de máxima tensión, dudas o pasión.  </p>\n<p class=\"msg msg--info\">En estos momentos el video se esta procesando por eso da error, regresa en breves</p>\n<div id=\"player\"> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"http://clubtentaciones.ga/720p.mp4\", parentId: \"#player\"});\n  </script>\n</p>",
+            "image": "https://clubtentaciones.ga/media/posts/24/laislat3_programa11PLUS_ok_55a6.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Programas"
+            ],
+            "date_published": "2021-03-23T19:43:34+00:00",
+            "date_modified": "2021-03-23T19:43:34+00:00"
+        },
+        {
             "id": "https://clubtentaciones.ga/debate-9.html",
             "url": "https://clubtentaciones.ga/debate-9.html",
             "title": "Debate 9",
@@ -160,23 +177,6 @@
             ],
             "date_published": "2021-02-24T19:25:19+00:00",
             "date_modified": "2021-03-01T19:11:12+00:00"
-        },
-        {
-            "id": "https://clubtentaciones.ga/debate-5.html",
-            "url": "https://clubtentaciones.ga/debate-5.html",
-            "title": "Debate 5",
-            "summary": "Melyssa Pinto ha confirmado en 'El debate de las tentaciones' que ha roto con su novio,&hellip;",
-            "content_html": "<p>Melyssa Pinto ha confirmado en 'El debate de las tentaciones' que ha roto con su novio, Manuel. La extronista de 'Mujeres y hombres y viceversa' lo había anunciado en sus redes sociales y éstas 'ardieron' ante la noticia. Por eso Sandra Barneda no pudo evitar preguntarle en el directo de la gala (22/02/2021).</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2955625564732\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://clubtentaciones.ga/media/posts/13/islatentaciones3_debate5_ec66.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Debates"
-            ],
-            "date_published": "2021-02-23T13:42:31+00:00",
-            "date_modified": "2021-03-01T19:10:56+00:00"
         }
     ]
 }
