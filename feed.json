@@ -14,7 +14,7 @@
             "url": "https://clubtentaciones.ga/3x11.html",
             "title": "Programa 11",
             "summary": "Llega la hora de la verdad con las hogueras finales en las&hellip;",
-            "content_html": "<p>Llega la hora de la verdad con las hogueras finales en las que los participantes decidirán si abandonarán la isla juntos, por separado o en compañía de un nuevo amor. Las cinco parejas que se embarcaron en la aventura más importante de su vida se reencuentran por fin, cara a cara, tras todo lo sucedido en las villas con las solteras y solteros. Momentos de máxima tensión, dudas o pasión.  </p>\n<p class=\"msg msg--info\">En estos momentos el video se esta procesando por eso da error, regresa en breves</p>\n<div id=\"player\"> </div>\n<p>\n<script>\n    var player = new Clappr.Player({source: \"http://clubtentaciones.ga/720p.mp4\", parentId: \"#player\"});\n  </script>\n</p>",
+            "content_html": "<p>Llega la hora de la verdad con las hogueras finales en las que los participantes decidirán si abandonarán la isla juntos, por separado o en compañía de un nuevo amor. Las cinco parejas que se embarcaron en la aventura más importante de su vida se reencuentran por fin, cara a cara, tras todo lo sucedido en las villas con las solteras y solteros. Momentos de máxima tensión, dudas o pasión.  </p>\n<p class=\"msg msg--info\">En estos momentos el video se esta procesando por eso da error, regresa en breves</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2192243302275\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
             "image": "https://clubtentaciones.ga/media/posts/24/laislat3_programa11PLUS_ok_55a6.jpg",
             "author": {
                 "name": "islatentaciones"
@@ -24,7 +24,7 @@
                    "Programas"
             ],
             "date_published": "2021-03-23T19:43:34+00:00",
-            "date_modified": "2021-03-23T19:43:34+00:00"
+            "date_modified": "2021-03-23T19:49:10+00:00"
         },
         {
             "id": "https://clubtentaciones.ga/debate-9.html",
@@ -41,7 +41,7 @@
                    "Debates"
             ],
             "date_published": "2021-03-23T07:06:51+00:00",
-            "date_modified": "2021-03-23T07:06:51+00:00"
+            "date_modified": "2021-03-23T19:48:49+00:00"
         },
         {
             "id": "https://clubtentaciones.ga/3x10.html",
