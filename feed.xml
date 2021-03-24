@@ -3,12 +3,36 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-23T21:37:23+00:00</updated>
+    <updated>2021-03-24T20:44:00+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://clubtentaciones.ga</id>
 
+    <entry>
+        <title>Programa 12</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://clubtentaciones.ga/3x12.html"/>
+        <id>https://clubtentaciones.ga/3x12.html</id>
+            <category term="Temporada 3"/>
+            <category term="Programas"/>
+
+        <updated>2021-03-24T20:44:00+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clubtentaciones.ga/media/posts/25/laislat3_programa12PLUS_d0ef.jpg" alt="" />
+                    Tras las emocionantes hogueras finales, los protagonistas de la tercera edición se&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://clubtentaciones.ga/media/posts/25/laislat3_programa12PLUS_d0ef.jpg" alt="" />
+                <p>Tras las emocionantes hogueras finales, los protagonistas de la tercera edición se reúnen seis meses después de la experiencia para responder a algunas cuestiones que quedaron en el aire y desvelar qué ha sido de ellos y de sus relaciones fuera de la isla.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 11</title>
         <author>
@@ -227,32 +251,6 @@
             <![CDATA[
                     <img src="https://clubtentaciones.ga/media/posts/16/islatentaciones3_debate6_ad74.jpg" alt="" />
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2967881779772" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 6</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://clubtentaciones.ga/3x06.html"/>
-        <id>https://clubtentaciones.ga/3x06.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-01T19:11:12+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clubtentaciones.ga/media/posts/14/laislat3-programa6-PLUS_0d90.jpg" alt="" />
-                     Llegan las terceras hogueras para ellos y para ellas y Diego&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://clubtentaciones.ga/media/posts/14/laislat3-programa6-PLUS_0d90.jpg" alt="" />
-                <p> </p>
-<p>Llegan las terceras hogueras para ellos y para ellas y Diego pide por primera vez en esta edición una hoguera de confrontación con Lola. Si su pareja no lo acepta, él deberá abandonar el programa inmediatamente.</p>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2957551602236" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://clubtentaciones.ga/3x12.html",
+            "url": "https://clubtentaciones.ga/3x12.html",
+            "title": "Programa 12",
+            "summary": "Tras las emocionantes hogueras finales, los protagonistas de la tercera edición se&hellip;",
+            "content_html": "<p>Tras las emocionantes hogueras finales, los protagonistas de la tercera edición se reúnen seis meses después de la experiencia para responder a algunas cuestiones que quedaron en el aire y desvelar qué ha sido de ellos y de sus relaciones fuera de la isla.</p>",
+            "image": "https://clubtentaciones.ga/media/posts/25/laislat3_programa12PLUS_d0ef.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Programas"
+            ],
+            "date_published": "2021-03-24T20:44:00+00:00",
+            "date_modified": "2021-03-24T20:44:00+00:00"
+        },
+        {
             "id": "https://clubtentaciones.ga/3x11.html",
             "url": "https://clubtentaciones.ga/3x11.html",
             "title": "Programa 11",
@@ -160,23 +177,6 @@
             ],
             "date_published": "2021-03-02T15:05:26+00:00",
             "date_modified": "2021-03-02T15:05:26+00:00"
-        },
-        {
-            "id": "https://clubtentaciones.ga/3x06.html",
-            "url": "https://clubtentaciones.ga/3x06.html",
-            "title": "Programa 6",
-            "summary": " Llegan las terceras hogueras para ellos y para ellas y Diego&hellip;",
-            "content_html": "<p> </p>\n<p>Llegan las terceras hogueras para ellos y para ellas y Diego pide por primera vez en esta edición una hoguera de confrontación con Lola. Si su pareja no lo acepta, él deberá abandonar el programa inmediatamente.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2957551602236\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://clubtentaciones.ga/media/posts/14/laislat3-programa6-PLUS_0d90.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Programas"
-            ],
-            "date_published": "2021-02-24T19:25:19+00:00",
-            "date_modified": "2021-03-01T19:11:12+00:00"
         }
     ]
 }
