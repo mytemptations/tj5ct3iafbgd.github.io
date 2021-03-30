@@ -3,12 +3,37 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-24T21:19:51+00:00</updated>
+    <updated>2021-03-30T20:44:52+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://clubtentaciones.ga</id>
 
+    <entry>
+        <title>Debate 10</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://clubtentaciones.ga/debate-10.html"/>
+        <id>https://clubtentaciones.ga/debate-10.html</id>
+            <category term="Temporada 3"/>
+            <category term="Debates"/>
+
+        <updated>2021-03-30T20:44:52+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clubtentaciones.ga/media/posts/26/islatentaciones3_debate10_6708.jpg" alt="" />
+                    Lola y Diego fueron a 'La isla de las tentaciones 3' para recuperar la confianza&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://clubtentaciones.ga/media/posts/26/islatentaciones3_debate10_6708.jpg" alt="" />
+                <p>Lola y Diego fueron a 'La isla de las tentaciones 3' para recuperar la confianza en su relación pero terminaron dejándolo. En 'El debate de las tentaciones' han podido ajustar las últimas cuentas pendientes. Además, ¡bombazo! Marina es traicionada por Lucía e Isaac y Fiama y Nagore protagonizan un fuerte rifirrafe (30/03/2021).</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2206904552067" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Programa 12</title>
         <author>
@@ -233,25 +258,6 @@
                     <img src="https://clubtentaciones.ga/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
                 <div id="player">Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además, nuevas hogueras para los chicos y las chicas con imágenes que podrían cambiarlo todo y el inesperado acercamiento entre Lucía e Isaac, el soltero más deseado de esta edición, que provoca un enfrentamiento entre dos chicas.   </div>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2970631146044" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Debate 6</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://clubtentaciones.ga/debate-6.html"/>
-        <id>https://clubtentaciones.ga/debate-6.html</id>
-            <category term="Temporada 3"/>
-            <category term="Debates"/>
-
-        <updated>2021-03-02T15:05:26+00:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://clubtentaciones.ga/media/posts/16/islatentaciones3_debate6_ad74.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2967881779772" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>

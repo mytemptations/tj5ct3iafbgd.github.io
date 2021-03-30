@@ -10,6 +10,23 @@
     },
     "items": [
         {
+            "id": "https://clubtentaciones.ga/debate-10.html",
+            "url": "https://clubtentaciones.ga/debate-10.html",
+            "title": "Debate 10",
+            "summary": "Lola y Diego fueron a 'La isla de las tentaciones 3' para recuperar la confianza&hellip;",
+            "content_html": "<p>Lola y Diego fueron a 'La isla de las tentaciones 3' para recuperar la confianza en su relación pero terminaron dejándolo. En 'El debate de las tentaciones' han podido ajustar las últimas cuentas pendientes. Además, ¡bombazo! Marina es traicionada por Lucía e Isaac y Fiama y Nagore protagonizan un fuerte rifirrafe (30/03/2021).</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2206904552067\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://clubtentaciones.ga/media/posts/26/islatentaciones3_debate10_6708.jpg",
+            "author": {
+                "name": "islatentaciones"
+            },
+            "tags": [
+                   "Temporada 3",
+                   "Debates"
+            ],
+            "date_published": "2021-03-30T20:44:52+00:00",
+            "date_modified": "2021-03-30T20:44:52+00:00"
+        },
+        {
             "id": "https://clubtentaciones.ga/3x12.html",
             "url": "https://clubtentaciones.ga/3x12.html",
             "title": "Programa 12",
@@ -161,22 +178,6 @@
             ],
             "date_published": "2021-03-03T19:18:21+00:00",
             "date_modified": "2021-03-03T22:27:50+00:00"
-        },
-        {
-            "id": "https://clubtentaciones.ga/debate-6.html",
-            "url": "https://clubtentaciones.ga/debate-6.html",
-            "title": "Debate 6",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"//ok.ru/videoembed/2967881779772\" frameborder=\"0\" allow=\"autoplay\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://clubtentaciones.ga/media/posts/16/islatentaciones3_debate6_ad74.jpg",
-            "author": {
-                "name": "islatentaciones"
-            },
-            "tags": [
-                   "Temporada 3",
-                   "Debates"
-            ],
-            "date_published": "2021-03-02T15:05:26+00:00",
-            "date_modified": "2021-03-02T15:05:26+00:00"
         }
     ]
 }
