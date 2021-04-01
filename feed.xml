@@ -3,12 +3,30 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-03-30T20:44:52+00:00</updated>
+    <updated>2021-04-01T19:03:15+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
     <id>https://clubtentaciones.ga</id>
 
+    <entry>
+        <title>Debate 11</title>
+        <author>
+            <name>islatentaciones</name>
+        </author>
+        <link href="https://clubtentaciones.ga/debate-11.html"/>
+        <id>https://clubtentaciones.ga/debate-11.html</id>
+            <category term="Temporada 3"/>
+            <category term="Debates"/>
+
+        <updated>2021-04-01T19:03:15+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2210630273667" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Debate 10</title>
         <author>
@@ -233,31 +251,6 @@
                     <img src="https://clubtentaciones.ga/media/posts/18/islatentaciones3_debate7_f97a.jpg" alt="" />
                 <p>¡Bombazo! Carlos confiesa que Lucía le dio un beso mientras Lola estaba en la hoguera de confrontación, mientras Toni le hace una proposición de futuro a Claudia que podría cambiarlo todo. Además, los acercamientos entre las parejas y los solteros irán a más en las próximas citas que van a tener. Así lo hemos podido comprobar en 'El debate de las tentaciones' con este avance exclusivo (08/03/2021).</p>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2165155695235" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Programa 7</title>
-        <author>
-            <name>islatentaciones</name>
-        </author>
-        <link href="https://clubtentaciones.ga/3x07.html"/>
-        <id>https://clubtentaciones.ga/3x07.html</id>
-            <category term="Temporada 3"/>
-            <category term="Programas"/>
-
-        <updated>2021-03-03T22:27:50+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://clubtentaciones.ga/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
-                    Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://clubtentaciones.ga/media/posts/17/laislat3_programa7PLUS_1791.jpg" alt="" />
-                <div id="player">Diego toma una decisión sobre Lola en la hoguera de confrontación. ¿Será el fin o el principio para ellos? Además, nuevas hogueras para los chicos y las chicas con imágenes que podrían cambiarlo todo y el inesperado acercamiento entre Lucía e Isaac, el soltero más deseado de esta edición, que provoca un enfrentamiento entre dos chicas.   </div>
-<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2970631146044" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
