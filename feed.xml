@@ -3,7 +3,7 @@
     <title>El club de las tentaciones</title>
     <link href="https://clubtentaciones.ga/feed.xml" rel="self" />
     <link href="https://clubtentaciones.ga" />
-    <updated>2021-04-01T19:03:15+00:00</updated>
+    <updated>2021-04-01T19:04:26+00:00</updated>
     <author>
         <name>islatentaciones</name>
     </author>
@@ -19,11 +19,18 @@
             <category term="Temporada 3"/>
             <category term="Debates"/>
 
-        <updated>2021-04-01T19:03:15+00:00</updated>
-            <summary></summary>
+        <updated>2021-04-01T19:04:26+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://clubtentaciones.ga/media/posts/27/islatentaciones3_debate11_e89e.jpg" alt="" />
+                    Las pareas y solteros tienen su último encuentro en el último debate&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2210630273667" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
+                    <img src="https://clubtentaciones.ga/media/posts/27/islatentaciones3_debate11_e89e.jpg" alt="" />
+                <p>Las pareas y solteros tienen su último encuentro en el último debate de esta edición de 'La isla de las tentaciones'. Nuevos cara a cara, enfrentamientos y emociones entre las parejas de Hugo y Lara, Marina y Jesús y Raúl y Claudia y sus respectivos tentadores y tentadoras (31/03/2021)</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="//ok.ru/videoembed/2210630273667" frameborder="0" allow="autoplay" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
     </entry>
